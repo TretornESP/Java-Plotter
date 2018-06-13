@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Plotter
+comment0.text=\r\n\ Esta\ clase\ se\ compone\ de\ funciones,\ campos\ y\ m\u00E9todos\ de\ tipo\ est\u00E1tico\ cuyas\ funciones\ son\ calcular\ y\ dibujar\ la\ grafica\ de\ dos\ ecuaciones\ dadas\r\n
+comment1.params=
+comment1.target=Plotter()
+comment2.params=x\ primera
+comment2.target=double\ calculate(double,\ boolean)
+comment2.text=\r\n\ calculamos\ la\ primera\ ecuaci\u00F3n\ punto\ a\ punto\r\n\ @Params\:\ double\ (el\ punto\ x\ para\ el\ que\ calcularemos\ una\ imagen),\ boolean\ (Control\ para\ ver\ si\ trabajamos\ con\ la\ primera\ o\ la\ segunda\ ecuacion)\r\n\ @Return\ double\ (el\ punto\ y\ correspondiente\ al\ input)\r\n
+comment3.params=g2d
+comment3.target=void\ drawAxis(java.awt.Graphics2D)
+comment3.text=\r\n\ Dibujamos\ los\ ejes\r\n
+comment4.params=bar\ panel
+comment4.target=void\ calculate(javax.swing.JProgressBar,\ javax.swing.JPanel)
+comment4.text=\r\n\ Calculamos\ las\ ecuaciones,\ funcion\ core\ del\ programa\r\n\ @Return\:\ void\r\n\ @Paramas\:\ JProgressBar,\ JPanel\r\n\ \r\n\ Emplea\ multithreading\r\n
+comment5.params=
+comment5.target=void\ run()
+comment5.text=\r\n\ Funcion\ main\ de\ un\ Thread,\ se\ ejecuta\ cuando\ se\ llama\ a\ start\r\n
+comment6.params=g2d
+comment6.target=void\ draw(java.awt.Graphics2D)
+comment6.text=\r\n\ Dibujamos\ las\ lineas\ que\ hemos\ calculado\r\n
+comment7.params=ec
+comment7.target=void\ setEcuacion1(java.lang.String)
+comment7.text=\r\n\ Getters\ y\ Setters\r\n
+comment8.params=ec
+comment8.target=void\ setEcuacion2(java.lang.String)
+numComments=9

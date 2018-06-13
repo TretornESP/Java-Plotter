@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=
+comment1.target=void\ setup()
+comment1.text=\r\n\ Configuramos\ la\ ventana\r\n
+comment2.params=
+comment2.target=Main()
+comment2.text=\r\n\ Creamos\ la\ ventana\ y\ creamos\ un\ objeto\ Menu\r\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment3.text=\r\n\ Funci\u00F3n\ main,\ crea\ el\ objeto\ principal\ del\ programa\r\n
+numComments=4

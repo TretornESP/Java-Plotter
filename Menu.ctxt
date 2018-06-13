@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Menu
+comment0.text=\r\n\ Clase\ que\ situa\ los\ componentes\ del\ men\u00FA\r\n
+comment1.params=
+comment1.target=void\ setup_buttons()
+comment1.text=\r\n\ Configuramos\ los\ botones\r\n
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=
+comment4.target=void\ setup()
+comment4.text=\r\n\ Configuramos\ el\ menu\ principal\r\n
+comment5.params=
+comment5.target=Menu()
+comment5.text=\r\n\ Llamamos\ a\ setup\r\n
+numComments=6

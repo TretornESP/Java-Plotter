@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Ejes
+comment0.text=\r\n\ Clase\ que\ genera\ los\ ejes\ y\ el\ canvas\ sobre\ el\ que\ dibujaremos\ las\ graficas\r\n
+comment1.params=
+comment1.target=void\ setup()
+comment1.text=\r\n\ Configuramos\ el\ panel\ y\ el\ handle\ para\ dibujar\ g2d\r\n
+comment2.params=e
+comment2.target=void\ paint(java.awt.Graphics)
+comment3.params=
+comment3.target=Ejes()
+comment3.text=\ \r\n\ Funcion\ principal,\ llama\ a\ configuracion\ y\ a\ calcular\r\n
+numComments=4
